@@ -40,4 +40,8 @@ private String other
 	{
 
 	}
+	public void printFullName()
+	{
+
+	}
 }
