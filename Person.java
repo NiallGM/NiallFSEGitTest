@@ -36,4 +36,8 @@ private String other
 	{
 		this.surname = surname;
 	}
+	public int getAge()
+	{
+
+	}
 }
