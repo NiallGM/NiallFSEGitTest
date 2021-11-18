@@ -44,4 +44,7 @@ private String other
 	{
 
 	}
+	public String toString()
+	{
+	}
 }
